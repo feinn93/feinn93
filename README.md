@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Jishan
 
-<!--
-**feinn93/feinn93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Computer Science student learning software development.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
+- DevOps
+- Terraform
+- Docker
+- Kubernetes
+
+## 🛠️ Skills
+
+- Java
+- Linux
+- Git
+- GitHub
+- Bash
+- HTML
+- CSS
+
+## 📚 Currently Working On
+
+- Solving LeetCode problems
+- Learning Linux from the fundamentals
+- Exploring DevOps
+- Building projects
+
+## 🎯 Goals
+
+- Become a better problem solver
+- Build real-world projects
+- Learn DevOps
+- Contribute to open source
+
+## 📫 Connect With Me
+
+- GitHub: [@feinn93](https://github.com/feinn93)
